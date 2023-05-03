@@ -1,4 +1,13 @@
-Source from https://github.com/bi7jta/Lin-Star-Bin_VisualBox
+Source from https://github.com/GhostBassist/Lin-Star-Bin ,Lin-Star-Bin, Lin-Star-Dash
 
-# W0CHP-PiStar-ALL-VisualBox
-W0CHP-PiStar-for-VisualBox, AMD64, x86
+# Lin-Star , AMD64, x86 Pi-Star, WOCHP dashboard
+Support VisualBox, VMWare, ESXi
+
+# Indlucing project
+https://github.com/bi7jta/Lin-Star-Bin_VisualBox
+
+https://github.com/bi7jta/Lin-Star-Sbin_VisualBox
+
+https://github.com/bi7jta/Lin-Star-Dash_VisualBox
+
+VDi
