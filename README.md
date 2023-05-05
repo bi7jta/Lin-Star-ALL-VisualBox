@@ -15,8 +15,40 @@ https://github.com/bi7jta/Lin-Star-Dash_VisualBox
 # VDi download
 Google device https://drive.google.com/drive/folders/1Pm9P77cIp1oWjWsbvPBK19d9b9OxYN6Q?usp=sharing
 
+````
+Requirements:
+OS: Windows10 +, MacOS x86
+VisualBox: V7.0+  
 
+Windows7+VisualBox V7 not work, can't start 
+Can also work in V6.1 OSX, but recommend use V7.0+, with GNOME Desktop 
 
+Assign IP and default newtork config, view run :
+ ip a
+
+2: enp0s8:   #VisualBox DHCP IP , you can visit ssh pi-star@192.168.56.101  
+    inet 192.168.56.101/24 brd 192.168.56.255 scope global dynamic noprefixroute enp0s8
+
+4: enp0s10:   
+    inet 192.168.2.251/24 brd 192.168.2.255 scope global enp0s10 
+
+Bridge LAN adapter static IP 192.168.2.251 , you can change it to your network in terminal, or set DHCP , just your Windows10/OSX use DHCP ,the VisualBox DHCP work ,otherwise set static IP:
+
+sudo nano /etc/network/interfaces
+
+Login: pi-star/raspberry,
+root/raspberry (just support su root)
+
+Reference :
+Visuaobox 7.08 download : https://www.virtualbox.org/wiki/Downloads
+Project and feedback issue: https://github.com/bi7jta/Lin-Star-ALL-VisualBox
+Follow me :
+Github:  https://github.com/bi7jta
+Facebook: https://www.facebook.com/winters.cn
+YouTube: https://youtube.com/winters_huang
+
+Build MMDVM repeater/hotspot easy!
+````
 
 
 
