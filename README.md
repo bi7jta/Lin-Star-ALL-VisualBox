@@ -15,6 +15,15 @@ https://github.com/bi7jta/Lin-Star-Dash_VisualBox
 # VDi download
 Google device https://drive.google.com/drive/folders/1Pm9P77cIp1oWjWsbvPBK19d9b9OxYN6Q?usp=sharing
 
+# Update logs
+````
+v1.0_build_20230505
+Change Desktop to GNOME from KDE, fixed KDE desktop not work once export and import to new Windows10.
+
+v1.0_build_20230504
+Build with KDE desktop, all ready. This version has been discard.
+````
+
 ````
 Requirements:
 OS: Windows10 +, MacOS x86
