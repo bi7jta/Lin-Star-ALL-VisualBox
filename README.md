@@ -2,6 +2,10 @@ Source from https://github.com/GhostBassist/Lin-Star-Bin ,Lin-Star-Bin, Lin-Star
   Thanks @GB7SL provide the first VMWare version.
   Thanks @W0CHP provide Dashboard.
 
+# Preview
+
+![image](https://github.com/bi7jta/Lin-Star-ALL-VisualBox/blob/main/screenshots/Pi-Star-Debian11-in-Visualbox6.png)
+
 # Lin-Star , AMD64, x86 Pi-Star, WOCHP dashboard
 Support VisualBox, VMWare, ESXi
 
