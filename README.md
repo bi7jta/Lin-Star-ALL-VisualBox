@@ -57,13 +57,16 @@ Build MMDVM repeater/hotspot easy!
 
 ## Reference :
 Visuaobox 7.08 download : https://www.virtualbox.org/wiki/Downloads
+
 Project and feedback issue: https://github.com/bi7jta/Lin-Star-ALL-VisualBox
 ## Follow me :
 Github:  https://github.com/bi7jta
+
 Facebook: https://www.facebook.com/winters.cn
+
 YouTube: https://youtube.com/winters_huang
 
-## Get hardware and more support
+## Get MMDVM hardware and more support
 https://www.bi7jta.org/wiki
 
 
