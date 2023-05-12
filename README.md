@@ -64,10 +64,12 @@ Github:  https://github.com/bi7jta
 
 Facebook: https://www.facebook.com/winters.cn
 
+Telegram group https://t.me/+HTzVv--5ZLs1YWU1
+
 YouTube: https://youtube.com/winters_huang
 
 ## Get MMDVM hardware and more support
-https://www.bi7jta.org/wiki
+https://www.bi7jta.org/shop
 
 
 
