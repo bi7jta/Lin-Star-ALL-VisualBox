@@ -62,6 +62,8 @@ Project and feedback issue: https://github.com/bi7jta/Lin-Star-ALL-VisualBox
 ## Follow me :
 Github:  https://github.com/bi7jta
 
+Discord group: https://discord.gg/NT6GKF6jUz
+
 Facebook: https://www.facebook.com/winters.cn
 
 Telegram group https://t.me/+HTzVv--5ZLs1YWU1
