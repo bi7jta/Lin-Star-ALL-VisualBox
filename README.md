@@ -6,5 +6,8 @@ DECLARE
 
 JUST FOR HAM RADIO RESEARCH！
 
+Preview:
+
+![image](https://github.com/bi7jta/Lin-Star-ALL-VisualBox/blob/main/Pi-Star-Debian11-in-Visualbox6.png)
 
 
