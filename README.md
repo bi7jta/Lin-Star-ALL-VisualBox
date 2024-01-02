@@ -13,5 +13,11 @@ Preview:
 
 ![转接板1](https://github.com/bi7jta/Lin-Star-ALL-VisualBox/assets/22002824/cbe854bf-1df9-47b1-9f7b-84d84f5f3007)
 
-Get the MMDVM hardware and support by @BI7JTA www.bi7jta.org/wiki
+Download link: NOT sure where is it , I will upload the new one , please contact 
+ 
 
+https://www.facebook.com/winters.cn
+
+https://www.bi7jta.org/wiki
+
+BI7JTA@GMAIL.com
