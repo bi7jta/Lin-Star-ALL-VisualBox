@@ -2,9 +2,7 @@ Source from https://github.com/GhostBassist/Lin-Star-Bin ,Lin-Star-Bin, Lin-Star
   Thanks @GB7SL provide the first VMWare version.
   Thanks @W0CHP provide Dashboard.
 
-DECLARE
-
-JUST FOR HAM RADIO RESEARCH！
+VirtualBox X86_64
 
 Preview:
 
@@ -13,11 +11,6 @@ Preview:
 
 ![转接板1](https://github.com/bi7jta/Lin-Star-ALL-VisualBox/assets/22002824/cbe854bf-1df9-47b1-9f7b-84d84f5f3007)
 
-Download link: NOT sure where is it , I will upload the new one , please contact 
+Download link:  
+ https://github.com/JTA-STAR/J-STAR
  
-
-https://www.facebook.com/winters.cn
-
-https://www.bi7jta.org/wiki
-
-BI7JTA@GMAIL.com
