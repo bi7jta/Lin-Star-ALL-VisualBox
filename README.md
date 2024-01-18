@@ -1,3 +1,6 @@
+Subscribe update daily & weekly https://groups.io/g/J-STAR
+
+
 Source from `https://github.com/GhostBassist/Lin-Star-Bin` ,Lin-Star-Bin, Lin-Star-Dash
   Thanks @GB7SL provide the first VMWare version.
   Thanks @W0CHP provide Dashboard.
