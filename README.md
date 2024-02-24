@@ -1,5 +1,10 @@
 Subscribe update daily & weekly https://groups.io/g/J-STAR
 
+Project bin: `https://github.com/bi7jta/Lin-Star-Bin_VisualBox`
+
+Project sbin: `https://github.com/bi7jta/W0CHP-PiStar-sbin_BPiM2`
+
+Project Dashboard: `https://github.com/bi7jta/W0CHP-PiStar-Dash_BPiM2`
 
 Source from `https://github.com/GhostBassist/Lin-Star-Bin` ,Lin-Star-Bin, Lin-Star-Dash
   Thanks @GB7SL provide the first VMWare version.
