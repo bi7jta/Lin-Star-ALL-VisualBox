@@ -1,3 +1,9 @@
+Download link:
+
+Google device: `https://drive.google.com/drive/folders/14F22TiTK6mFcBT9sHPIiuZ5gVHqhEwnb?usp=sharing`
+
+Description: `https://github.com/JTA-STAR/J-STAR`
+
 Subscribe update daily & weekly https://groups.io/g/J-STAR
 
 Project bin: `https://github.com/bi7jta/Lin-Star-Bin_VisualBox`
